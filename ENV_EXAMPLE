@@ -1,0 +1,7 @@
+MONGO_URI=mongodb://localhost:27017
+TOKEN_KEY=xyzxyzxyz
+PORT=4000
+NODE_ENV=development
+LTCAPI=uuuSQGkQCrVBwWhHeqlxqjCKj8EZZPYNhpoWiNiGb0VSZFy2h7v3vdGoJwNTLRV
+URL=http://localhost:4000/api/users/pay?user_id=1234
+API=uuuSQGkQCrVBwWhHeqlxqjCKj8EZZPYNhpoWiNiGb0VSZFy2h7v3vdGoJwNTLRV

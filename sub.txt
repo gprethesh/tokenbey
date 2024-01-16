@@ -1,0 +1,31 @@
+http://localhost:4000/api/users/subpay?mode=basic&sub=658e6f0b777fa8bd48d91f46
+
+
+
+https://8rn6q1r6-4000.inc1.devtunnels.ms/api/users/callbacksub?0=u&1=l&2=t&3=i&4=m&5=a&6=t&7=e&8=%2540&9=6&10=5&11=8&12=e&13=6&14=f&15=c&16=c&17=7&18=7&19=7&20=f&21=a&22=8&23=b&24=d&25=4&26=8&27=d&28=9&29=1&30=f&31=6&32=4&33=%2540&34=6&35=5&36=8&37=e&38=6&39=f&40=0&41=b&42=7&43=7&44=7&45=f&46=a&47=8&48=b&49=d&50=4&51=8&52=d&53=9&54=1&55=f&56=4&57=6&uuid=6d3a2fad-3d38-4b83-aca4-ba8b17d6355d&address_in=MSmnKVYHsAM6aoJJW6hF2YJHqw2y4oyNia&address_out=ltc1q60rkfqhqncmyn2xlxmhjkdve00g7qpylt0uwqq&confirmations=9&txid_in=d65b7e2ef9011956c7cc64ffc7f05b160efa5fd6a9384a102aa2cc94264ebb1c&txid_out=84b217c144328a6043aff09b12e8589d7339bfdd104bbd7b436317008d636d39&fee=5460&fee_coin=0.0000546&value=200000&value_coin=0.002&value_forwarded=194330&value_forwarded_coin=0.0019433&coin=ltc&price=73.3195222434&result=sent&pending=0
+
+
+x-access-token 
+
+http://localhost:4000/api/users/register
+
+{
+    "username": "ahmedkhan",
+    "email": "ahmed@gmail.com",
+    "password": "12345678"
+}
+
+{
+    "email" : "ahmed@gmail.com",
+    "password" : "12345678"
+}
+
+
+http://localhost:4000/api/posts/
+
+
+{
+    "title": "I like it very lot",
+    "content": "this is something i came up with."
+    
+}
